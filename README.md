@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Flutter 💙
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source Projects 👨‍💻
+- 🥅 2020 Goal: Contribute more to Open Source Projects 👨‍💻
 - ⚡ Fun fact: I love to play video games 🎮
 
 ---
