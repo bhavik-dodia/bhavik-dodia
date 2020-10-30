@@ -13,19 +13,19 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavik-dodia&hide=issues&show_icons=true&count_private=true&hide_border=true&title_color=4285F47&icon_color=DB4437&text_color=0F9D58" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavik-dodia&hide=issues&show_icons=true&count_private=true&hide_border=true&title_color=4285F47&icon_color=DB4437&text_color=0F9D58&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik-dodia&layout=compact&hide_border=true&title_color=4285F4&text_color=0F9D58" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik-dodia&layout=compact&hide_border=true&title_color=4285F4&text_color=0F9D58&theme=nightowl" />
 </a>
 
 ## Pinned repositories
 
 <a href="https://github.com/bhavik-dodia/todoey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavik-dodia&repo=todoey&show_icons=true&hide_border=true&title_color=4285F47&icon_color=DB4437&text_color=0F9D58" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavik-dodia&repo=todoey&show_icons=true&hide_border=true&title_color=4285F47&icon_color=DB4437&text_color=0F9D58&theme=nightowl" />
 </a>
 <a href="https://github.com/bhavik-dodia/whatsapp-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavik-dodia&repo=whatsapp-automation&show_icons=true&hide_border=true&title_color=4285F4&icon_color=DB4437&text_color=0F9D58" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavik-dodia&repo=whatsapp-automation&show_icons=true&hide_border=true&title_color=4285F4&icon_color=DB4437&text_color=0F9D58&theme=nightowl" />
 </a>
 
 ---
