@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavik-dodia&layout=compact&hide_border=true&title_color=4285F4&text_color=0F9D58" />
 </a>
 
-## Pinned Repos
+## Pinned repositories
 
 <a href="https://github.com/bhavik-dodia/todoey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavik-dodia&repo=todoey&show_icons=true&hide_border=true&title_color=4285F47&icon_color=DB4437&text_color=0F9D58" />
