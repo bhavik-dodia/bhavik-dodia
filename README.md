@@ -5,10 +5,10 @@
 
 ## I'm a Developer, Techthusiast and a Student!!!
 
-🔭 I’m currently working on Flutter 💙
-🌱 I’m currently learning everything 🤣
-🥅 2020 Goal: Contribute more to Open Source Projects 👨‍💻
-⚡ Fun fact: I love to play video games 🎮
+- 🔭 I’m currently working on Flutter 💙
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goal: Contribute more to Open Source Projects 👨‍💻
+- ⚡ Fun fact: I love to play video games 🎮
 
 ---
 
